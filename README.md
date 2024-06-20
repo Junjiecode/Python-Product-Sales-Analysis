@@ -1,5 +1,9 @@
 # Python-Product-Sales-Analysis
 
+![popcorn!](https://github.com/Junjiecode/Python-Product-Sales-Analysis/blob/main/product_sales.csv)
+
+
+
 ## Business problem 
 
 Hi,
