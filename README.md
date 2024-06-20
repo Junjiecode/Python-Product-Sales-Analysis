@@ -1,6 +1,7 @@
-# Python-Product-Sales-Analysis
+# Product-Sales-Analysis 
+(programming language used : Python)
 
-![popcorn!](https://github.com/Junjiecode/Python-Product-Sales-Analysis/blob/main/product_sales.csv)
+![popcorn!](https://github.com/Junjiecode/Python-Product-Sales-Analysis/blob/main/Sales-101-2.jpg)
 
 
 
